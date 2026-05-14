@@ -30,3 +30,17 @@ pip install -r requirements.txt
 First, please unzip the file "data.zip".
 
  main.py uses the MNIST-USPS dataset by default. If you want to run the entire dataset at once, please run run.py.
+
+## 4. Citation
+
+If you find our work useful, please cite our paper:
+
+```bibtex
+@inproceedings{wang2026bridging,
+  title={Bridging Inter-View and Client Heterogeneity: Federated Multi-View Clustering under Non-IID Data},
+  author={Wang, Jiazhen and Chen, Xinyue and Liu, Shuaiyu and He, Zican and Ren, Yazhou and Wang, Yi and Xia, Shuyin},
+  booktitle={Proceedings of the International Joint Conference on Artificial Intelligence},
+  pages={1--9},
+  year={2026}
+}
+```
